@@ -16,6 +16,10 @@ For more info, look at our [Wiki Page]()
 ![img.png](assets/SCR-20231130-lmln.png)
 ![img_1.png](assets/SCR-20231130-lmsz.png)
 
+# Code
+There are two files in the Code/ folder.
+* ResNet 18 cifar contains the pruning experiments and the associated results. 
+* Module Wise Pruning containes the pruning experiments on custom DNN model and the associated results.
 
 # References
 [1. Tran C, Fioretto F, Kim JE, Naidu R. Pruning has a disparate impact on model accuracy. Advances in Neural Information Processing Systems. 2022 Dec 6;35:17652-64.](https://arxiv.org/abs/2205.13574)
