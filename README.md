@@ -13,8 +13,8 @@ We explore the relationship between the values of the weights and the reduction 
 We observe that pruning the tail end of the distribution of the weights leads to reduction in the accuracy of the minority class. We rigorously experiment multiple pruning ratios and two different datasets.
 For more info, look at our [Wiki Page]()
 
-![img.png](assets/img.png)
-![img_1.png](assets/img_1.png)
+![img.png](assets/SCR-20231130-lmln.png)
+![img_1.png](assets/SCR-20231130-lmsz.png)
 
 
 # References
